@@ -1,0 +1,18 @@
+{
+    "name": "ct/hongwei",
+    "description": "this is test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hongweizhiyuan",
+            "email": "403236160@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Spider\\":"src"
+        }
+    }
+}
